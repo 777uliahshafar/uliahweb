@@ -1,0 +1,45 @@
+@import '../styles/variable';
+
+.botContent{
+    display: flex;
+    margin: 1rem; 
+    justify-content: flex-end;
+
+    h3 {
+       flex-basis: auto;
+       line-height: 25px;
+       color: $color-pallete-9;
+    }
+
+    ul {
+       display: inline-flex;
+       list-style: none;
+       
+   
+       li {
+         margin: auto 1rem;
+   
+         a {
+           opacity: 0.6;
+           transition: all 0.1s ease-in;
+           &:hover {
+             opacity: 1;
+           }
+           &.facebook {
+             color: rgb(66, 103, 178);
+           }
+           &.twitter {
+             color: rgb(56, 161, 243);
+           }
+           &.google {
+             color: rgb(221, 75, 57);
+           }
+           &.linkedin {
+             color: rgb(0, 119, 181);
+           }
+         }
+       }
+     }
+
+
+ }//end of bottom content

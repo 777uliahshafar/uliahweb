@@ -1,0 +1,22 @@
+@import '../styles/variable';
+
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 8rem auto auto 3rem auto;
+    grid-template-areas:    "header header"
+                            "article article"
+                            "sidebar sidebar"
+                            "footer footer"
+                            "links links";
+    margin: 0;
+
+    .content{
+        grid-area: article;
+        margin: 0.5rem $gutter;
+    }
+
+
+}
+

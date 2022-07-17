@@ -1,0 +1,60 @@
+@import '../styles/variable.scss';
+
+.nav-container {
+  grid-area: links;
+  width: $container-width;
+  height: 100vh;
+  margin: 0 auto;
+  padding-top: 0.5rem;
+  margin-top: 0.5rem;
+
+  .link {
+    color: $primaryColor;
+    font-family: $defaultFont;
+    font-size: 17px;
+    font-weight: $boldWeight;
+    display: block;
+    text-align: center;
+    margin: 0.5rem $gutter;
+    padding: 0.5rem;
+    background-color: $secondaryColor;
+    border-radius: 0.5rem;
+    color: $primaryColor;
+
+    &:hover {
+      color: $color-pallete-1;
+    }
+  } //end of link
+} //end of container
+
+/*----------Medium Screen--------- */
+
+//35em is also 560px (if basefont is 16px)
+@media only screen and (min-width: 35em) {
+  .nav-container {
+    display: none;
+  }
+} //end of media query
+
+/*----------Large Screen--------- */
+//64em is also 1028px (if basefont is 16px)
+@media only screen and (min-width: 64em) {
+  .nav-container {
+    display: grid;
+    grid-template-columns: repeat(12, 9rem);
+    height: auto;
+    background-color: $primaryColor;
+
+    .row {
+      width: auto;
+      text-align: center;
+      padding: 5px;
+    }
+
+    .link {
+      display: inline;
+      color: $color-pallete-4;
+      background-color: transparent;
+    }
+  } //end of navContainer
+} //end of media query

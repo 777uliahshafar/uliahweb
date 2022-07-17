@@ -1,0 +1,8 @@
+@import '../styles/variable';
+
+
+.app {
+    grid-area: app;
+    font-family: $defaultFont;
+    font-weight: $boldWeight;
+}

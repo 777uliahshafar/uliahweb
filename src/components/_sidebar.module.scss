@@ -1,0 +1,44 @@
+@import '../styles/variable';
+
+.container {
+    grid-area: sidebar;
+    background-color: $secondaryColor;
+    
+    padding: 1.5rem 0.5rem;
+    a{
+      display: flex;
+      flex-flow: row;
+      color: $fontColor;
+    }
+  
+    .card {
+      width: 100%-$gutterdbl;
+      margin: .5rem $gutter;
+      color: $fontColor;
+      font-family: $defaultFont;
+        
+        h2 {
+          font-size: 1.12rem;
+          color:$fontColor;
+          font-weight: $normalWeight;
+        }
+      
+      }
+    }
+
+    /*----------Medium Screen--------- */
+
+//35em is also 560px (if basefont is 16px)
+@media only screen and (min-width: 35em) {
+
+.container {
+  margin: 0 auto;
+  width: 90%-$gutterdbl;
+  
+
+  
+
+}//container
+
+
+}//end of media query

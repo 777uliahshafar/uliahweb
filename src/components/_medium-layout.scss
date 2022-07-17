@@ -1,0 +1,15 @@
+.container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 3rem 8rem auto auto auto 6rem;
+    grid-template-areas:    "app app"
+                            "header header"
+                            "links links"
+                            "article article"
+                            "sidebar sidebar"
+                            "footer footer";
+    
+    margin: 0 auto;
+    padding:10px;
+    border: solid 1px #ccc;
+}
