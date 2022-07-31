@@ -3,7 +3,7 @@
 .article-box {
   grid-area: article;
   width: 100%-$gutterdbl;
-  margin: 0.5rem $gutter;
+  margin: 0.125rem $gutter;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: auto;
