@@ -9,8 +9,8 @@ export default () => (
     query={graphql`
       query {
         allMarkdownRemark(
-          filter: { frontmatter: { featured: { eq: true } } }
           sort: { fields: [frontmatter___date], order: DESC }
+          limit: 5
         ) {
           totalCount
           edges {
@@ -33,7 +33,7 @@ export default () => (
       <div className={styles.container}>
         <Card className={styles.card}>
           <CardBody>
-            <CardTitle className="text-center">Featured Post</CardTitle>
+            <CardTitle className="text-center">Recent Post</CardTitle>
             {data.allMarkdownRemark.edges.map(({ node }) => (
               <a key={node.id} href={node.fields.slug}>
                 {node.frontmatter.title}
