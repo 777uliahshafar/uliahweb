@@ -52,7 +52,7 @@ export default () => (
                 1. Do both of these writing tasks with vocabulary review.
               </ListGroupItem>
               <ListGroupItem className="text-dark" color="light">
-                2. Do both listening and speaking section or reading section
+                2. Do both speaking and (listening section or reading section)
                 alone the same day as writing.
               </ListGroupItem>
               <ListGroupItem className="text-dark" color="success">
