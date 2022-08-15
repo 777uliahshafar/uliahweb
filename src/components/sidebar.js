@@ -49,11 +49,12 @@ export default () => (
             </CardTitle>
             <ListGroup>
               <ListGroupItem className="text-dark" color="success">
-                1. Do both of these writing tasks with vocabulary review.
+                1. Do both of these writing and speaking tasks with the help of
+                vocabulary review.
               </ListGroupItem>
               <ListGroupItem className="text-dark" color="light">
-                2. Do both speaking and (listening section or reading section)
-                alone the same day as writing.
+                2. Do extra practice of listening section or reading section at
+                the same day first one.
               </ListGroupItem>
               <ListGroupItem className="text-dark" color="success">
                 3. Surf grammar, language, britishluke, ielts materials.
