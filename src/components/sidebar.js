@@ -43,6 +43,7 @@ export default () => (
         </Card>
 
         <Card className={styles.card}>
+            <CardTitle className="text-center">Link</CardTitle>
           <CardBody>
             <CardLink href="https://drive.google.com/file/d/1A5dqboPlHNA1aoSqyeqbKfQAhq20t5hi/view?usp=sharing">
               et flashcard
