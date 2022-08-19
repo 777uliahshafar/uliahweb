@@ -44,6 +44,17 @@ export default () => (
 
         <Card className={styles.card}>
           <CardBody>
+            <CardLink href="https://drive.google.com/file/d/1A5dqboPlHNA1aoSqyeqbKfQAhq20t5hi/view?usp=sharing">
+              et flashcard
+            </CardLink>
+            <CardLink href="https://drive.google.com/file/d/1DyXGVudGg6lSCakBAhGI9FBSy7GY5TLs/view?usp=sharing">
+              topic ideas
+            </CardLink>
+          </CardBody>
+        </Card>
+
+        <Card className={styles.card}>
+          <CardBody>
             <CardTitle>
               <h2>Instructions!</h2>
             </CardTitle>
