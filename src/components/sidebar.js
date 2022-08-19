@@ -1,5 +1,12 @@
 import React from 'react'
-import { Card, CardBody, CardTitle, ListGroup, ListGroupItem } from 'reactstrap'
+import {
+  Card,
+  CardBody,
+  CardTitle,
+  ListGroup,
+  ListGroupItem,
+  CardLink
+} from 'reactstrap'
 import { StaticQuery, graphql } from 'gatsby'
 
 import styles from './_sidebar.module.scss'
@@ -43,15 +50,17 @@ export default () => (
         </Card>
 
         <Card className={styles.card}>
-            <CardTitle className="text-center">Link</CardTitle>
-          <CardBody>
+          <CardTitle className="text-center">Link</CardTitle>
+          <ListGroupItem>
             <CardLink href="https://drive.google.com/file/d/1A5dqboPlHNA1aoSqyeqbKfQAhq20t5hi/view?usp=sharing">
-              et flashcard
+              Flashcard
             </CardLink>
+          </ListGroupItem>
+          <ListGroupItem>
             <CardLink href="https://drive.google.com/file/d/1DyXGVudGg6lSCakBAhGI9FBSy7GY5TLs/view?usp=sharing">
-              topic ideas
+              Topic ideas
             </CardLink>
-          </CardBody>
+          </ListGroupItem>
         </Card>
 
         <Card className={styles.card}>
