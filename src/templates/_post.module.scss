@@ -37,8 +37,10 @@
 
   .content {
     padding: 0.01rem;
-    //      background-color: $secondaryColor ;
+    background-color: $contentColor;
     border-top: dotted 0.85px $primaryColor;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 
     h1 {
       color: $color-pallete-8;
