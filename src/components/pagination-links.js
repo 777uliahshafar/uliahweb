@@ -18,7 +18,7 @@ const PaginationLinks = ({ currentPage, numberOfPages }) => {
           <PaginationLink previous href={previousPage} />
         </PaginationItem>
       )}
-      {Array.from({ length: numberOfPages }, (_, i) =>
+      {Array.from({ length: 7 }, (_, i) =>
         currentPage === i + 1 ? (
           <PaginationItem active key={`page-number${i + 1}`}>
             <PaginationLink href={`/${i === 0 ? '' : 'page/' + (i + 1)}`}>
