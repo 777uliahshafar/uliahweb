@@ -1,4 +1,13 @@
-# Persued Deadline
+---
+title: 'Scholarship Info Nov'
+date: '2022-11-14'
+image: ../images/howl650.jpg
+keywords: 'beasiswa
+tags:
+  - beasiswa
+---
+
+<details><summary># Persued Deadline</summary>
 
 - [Hong Kong PhD Fellowship Scheme|Sep1-Dec1](#Hong Kong PhD Fellowship Scheme|Sep1-Dec1)
 - [Russian scholarship project|Sep15-Dec10](#Russian scholarship project|Sep15-Dec10)
@@ -13,9 +22,9 @@
 - [MEXT|Mei4-Mei19](#Mext|mei4-mei19)
 - [Beasiswa Pendidikan Indonesia|Apr11-Juli31](#BPI|apr11-juli31)
 
-# Information Order
-
-sort by date ascending order
+</details>
+<details><summary># Information Order</summary>
+Sort by date ascending order
 
 - Name
 - Date (method)
@@ -23,6 +32,8 @@ sort by date ascending order
 - Univ list
 - Ref/Source/More
 - Contact
+
+</details>
 
 # Scholarship list
 
