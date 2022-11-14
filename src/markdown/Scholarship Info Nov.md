@@ -2,7 +2,7 @@
 title: 'Scholarship Info Nov'
 date: '2022-11-14'
 image: ../images/howl650.jpg
-keywords: 'beasiswa
+keywords: 'beasiswa'
 tags:
   - beasiswa
 ---
