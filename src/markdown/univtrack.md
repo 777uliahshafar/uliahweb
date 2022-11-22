@@ -1,6 +1,6 @@
 ---
 title: 'University Track'
-date: '2022-11-15'
+date: '2022-11-18'
 image: ../images/howl650.jpg
 keywords: 'beasiswa'
 tags:
@@ -30,3 +30,14 @@ Outline
 - TPA Bappenas 500 atau TPDA PLTI 500
 - ref. letter online form x2 dosbin/rektor/kaprodi
 -
+-
+
+## UNDIP |
+
+Outline
+
+- TOEFL ITP 500
+-
+
+[link](https://pendaftaran.undip.ac.id/)
+[link2](https://pmb.undip.ac.id/)
