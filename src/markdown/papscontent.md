@@ -1,14 +1,12 @@
 ---
-title: "Paps Content"
-date: "2022-11-25"
+title: 'Paps Content'
+date: '2022-11-25'
 image: ../images/howl650.jpg
-keywords: "beasiswa"
+keywords: 'beasiswa'
 tags:
-- beasiswa
+  - beasiswa
 ---
 
 ## Overall content
 
-[!Overall](../images/overal.png)
-
-
+![Overall](../images/overal.png)
