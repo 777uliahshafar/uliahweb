@@ -1,6 +1,6 @@
 ---
 title: 'Essay Early Desember'
-date: '2021-12-12'
+date: '2022-12-12'
 image: ../images/howl650.jpg
 keywords: 'beasiswa'
 tags:
