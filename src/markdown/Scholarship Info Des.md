@@ -1,5 +1,5 @@
 ---
-title: 'Prerequisite Des"
+title: 'Prerequisite Dec'
 date: '2022-12-24'
 image: ../images/howl650.jpg
 keywords: 'beasiswa'
