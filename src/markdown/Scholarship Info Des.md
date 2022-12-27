@@ -12,15 +12,16 @@ tags:
 - CSC December - 19 February
 - Turkiye 10 January - 20 February
 - MOE 1 February - 31 March
-- AAS February - April
-- GKS Mid February - 2 April
+- AAS February - 29 April
+- GKS Mid February - March (Embassy) April (Uni)
 - MEXT 4 May - 19 May
 
 ## Spesific Prerequisite Abroad
 
 - [ ] IELTS Certificate 5.5 - 7
+  - CSC 5.5
   - AAS 6
-  - MOE
+  - MOE 45
   - YTB
   - GKS
   - MEXT 5.5 / TOEFL ITP 543
