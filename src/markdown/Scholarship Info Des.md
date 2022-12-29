@@ -11,8 +11,10 @@ tags:
 
 - CSC December - 19 February
 - Turkiye 10 January - 20 February
-- GKS 17 February - 10 March(emb)| April(uni)
+- GKS-E 17 February - 10 March
+-
 - MOE 1 February - 31 March
+- GKS-U 17 February - April
 - AAS February - 29 April
 - MEXT 4 May - 19 May
 
