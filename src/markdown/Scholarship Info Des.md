@@ -11,7 +11,7 @@ tags:
 
 - CSC December - 19 February
 - Turkiye 10 January - 20 February
-- GKS-E 17 February - 10 March
+- ~~GKS-E 17 February - 10 March~~
 -
 - MOE 1 February - 31 March
 - GKS-U 17 February - April
