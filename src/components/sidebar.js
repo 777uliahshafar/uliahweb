@@ -61,6 +61,16 @@ export default () => (
               Topic ideas
             </CardLink>
           </ListGroupItem>
+          <ListGroupItem>
+            <CardLink href="https://uliahid.com/2022-12-27%20loi%20prompt/">
+              YTB Prompt🔥
+            </CardLink>
+          </ListGroupItem>
+          <ListGroupItem>
+            <CardLink href="https://uliahid.com/2022-12-29%20ytb%20sch/">
+              YTB Prerequisite🔥
+            </CardLink>
+          </ListGroupItem>
         </Card>
 
         <Card className={styles.card}>
