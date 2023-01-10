@@ -50,27 +50,29 @@ export default () => (
         </Card>
 
         <Card className={styles.card}>
-          <CardHeader className="text-center">Link</CardHeader>
-          <ListGroupItem>
-            <CardLink href="https://drive.google.com/file/d/1A5dqboPlHNA1aoSqyeqbKfQAhq20t5hi/view?usp=sharing">
-              Flashcard
-            </CardLink>
-          </ListGroupItem>
-          <ListGroupItem>
-            <CardLink href="https://drive.google.com/file/d/1DyXGVudGg6lSCakBAhGI9FBSy7GY5TLs/view?usp=sharing">
-              Topic ideas
-            </CardLink>
-          </ListGroupItem>
-          <ListGroupItem>
-            <CardLink href="https://uliahid.com/2022-12-27%20loi%20prompt/">
-              YTB Prompt🔥
-            </CardLink>
-          </ListGroupItem>
-          <ListGroupItem>
-            <CardLink href="https://uliahid.com/2022-12-29%20ytb%20sch/">
-              YTB Prerequisite🔥
-            </CardLink>
-          </ListGroupItem>
+          <CardTitle className="text-center">Link</CardTitle>
+          <ListGroup variant="flush">
+            <ListGroupItem>
+              <CardLink href="https://drive.google.com/file/d/1A5dqboPlHNA1aoSqyeqbKfQAhq20t5hi/view?usp=sharing">
+                Flashcard
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://drive.google.com/file/d/1DyXGVudGg6lSCakBAhGI9FBSy7GY5TLs/view?usp=sharing">
+                Topic ideas
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/2022-12-27%20loi%20prompt/">
+                YTB Prompt🔥
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/2022-12-29%20ytb%20sch/">
+                YTB Prerequisite🔥
+              </CardLink>
+            </ListGroupItem>
+          </ListGroup>
         </Card>
 
         <Card className={styles.card}>
