@@ -50,7 +50,7 @@ export default () => (
         </Card>
 
         <Card className={styles.card}>
-          <CardTitle className="text-center">Link</CardTitle>
+          <CardHeader className="text-center">Link</CardHeader>
           <ListGroupItem>
             <CardLink href="https://drive.google.com/file/d/1A5dqboPlHNA1aoSqyeqbKfQAhq20t5hi/view?usp=sharing">
               Flashcard
