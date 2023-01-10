@@ -5,6 +5,7 @@ import {
   CardTitle,
   ListGroup,
   ListGroupItem,
+  Badge,
   CardLink
 } from 'reactstrap'
 import { StaticQuery, graphql } from 'gatsby'
@@ -50,7 +51,9 @@ export default () => (
         </Card>
 
         <Card className={styles.card}>
-          <CardTitle className="text-center">Link</CardTitle>
+          <CardTitle color="success" className="text-center">
+            Link
+          </CardTitle>
           <ListGroup variant="flush">
             <ListGroupItem>
               <CardLink href="https://drive.google.com/file/d/1A5dqboPlHNA1aoSqyeqbKfQAhq20t5hi/view?usp=sharing">
@@ -64,12 +67,12 @@ export default () => (
             </ListGroupItem>
             <ListGroupItem>
               <CardLink href="https://uliahid.com/2022-12-27%20loi%20prompt/">
-                YTB Prompt🔥
+                YTB Prompt<Badge pill>1</Badge>
               </CardLink>
             </ListGroupItem>
             <ListGroupItem>
               <CardLink href="https://uliahid.com/2022-12-29%20ytb%20sch/">
-                YTB Prerequisite🔥
+                YTB Prerequisite<Badge pill>1</Badge>
               </CardLink>
             </ListGroupItem>
           </ListGroup>
