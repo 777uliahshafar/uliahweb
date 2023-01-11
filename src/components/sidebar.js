@@ -75,6 +75,11 @@ export default () => (
                 YTB Prerequisite<Badge pill>1</Badge>
               </CardLink>
             </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/Scholarship%20Info%20Des/">
+                Sch Prerequisite<Badge pill>0</Badge>
+              </CardLink>
+            </ListGroupItem>
           </ListGroup>
         </Card>
 
