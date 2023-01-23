@@ -15,11 +15,13 @@ tags:
 ## GKS - E
 
 - [ ] Ijazah & transkrip s1 en
-  - 1 rangkap fc notaris
+  - 1 rangkap fc
 - [ ] Ijazah & transkrip s2 en
-  - 1 rangkap fc mofa.kr
+  - 1 rangkap fc
 - [ ] Birth certificate or/and Family register
-  - 1 rangkap fc mofa.kr
+  - 1 rangkap fc
+
+Though, after interview must resubmit asli/fc mofa.kr
 
 ## MOE scholarship
 
@@ -29,11 +31,13 @@ tags:
 ## GKS - U
 
 - [ ] Ijazah & transkrip s1 en
-  - 1 rangkap fc notaris
+  - 1 rangkap fc
 - [ ] Ijazah & transkrip s2 en
-  - 1 rangkap fc mofa.kr
+  - 1 rangkap fc
 - [ ] Birth certificate or/and Family register
-  - 1 rangkap fc mofa.kr
+  - 1 rangkap fc
+
+Though, after interview must resubmit asli/fc mofa.kr
 
 ## AAS
 
