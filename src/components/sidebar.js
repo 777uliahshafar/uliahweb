@@ -76,8 +76,39 @@ export default () => (
               </CardLink>
             </ListGroupItem>
             <ListGroupItem>
+              <CardLink href="https://uliahid.com/gkssch2023-01-23/">
+                GKS Prerequisite<Badge pill>1</Badge>
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/moesch2023-01-22/">
+                MOE Prerequisite<Badge pill>1</Badge>
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/aassch2023-01-23/">
+                AAS Prerequisite<Badge pill>1</Badge>
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/mextsch2023-01-23/">
+                MEXT Prerequisite<Badge pill>1</Badge>
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/lpdpnbpi/">
+                LPDP BPI Prerequisite<Badge pill>1</Badge>
+              </CardLink>
+            </ListGroupItem>
+
+            <ListGroupItem>
               <CardLink href="https://uliahid.com/Scholarship%20Info%20Des/">
-                Sch Prerequisite<Badge pill>0</Badge>
+                Timeline General Sch<Badge pill>0</Badge>
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/certified2023-01-21/">
+                Certified Sch <Badge pill>0</Badge>
               </CardLink>
             </ListGroupItem>
           </ListGroup>
