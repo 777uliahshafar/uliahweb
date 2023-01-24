@@ -1,16 +1,18 @@
 ---
-title: "Certified Documents"
-date: "2023-01-21"
+title: 'Certified Documents'
+date: '2023-01-21'
 image: ../images/howl650.jpg
-keywords: "beasiswa"
+keywords: 'beasiswa'
 tags:
-- beasiswa
+  - beasiswa
 ---
+
 ## Turkiye Scholarship
+
 - [ ] Ijazah & transkrip s1 en
-  - 1 rangkap *scanned* notaris
+  - 1 rangkap _scanned_ notaris
 - [ ] Ijazah & transkrip s2 en
-  - 1 rangkap *scanned* notaris
+  - 1 rangkap _scanned_ notaris
 
 ## GKS - E
 
@@ -21,12 +23,12 @@ tags:
 - [ ] Birth certificate or/and Family register
   - 1 rangkap fc
 
-Though, after interview must resubmit asli/fc mofa.kr
+Though, after interview must resubmit asli/fc mofa.kr _(17maret)_
 
 ## MOE scholarship
 
 - [ ] Ijazah & transkrip s2 en
-    - 1 rangkap fc teto
+  - 1 rangkap fc teto _(31maret)_
 
 ## GKS - U
 
@@ -42,16 +44,20 @@ Though, after interview must resubmit asli/fc mofa.kr
 ## AAS
 
 - [ ] Ijazah & transkrip s1 en
-  - 1 rangkap *scanned* notaris
+  - 1 rangkap _scanned_ notaris
 - [ ] Ijazah & transkrip s2 en
-  - 1 rangkap *scanned* notaris
+  - 1 rangkap _scanned_ notaris
 
 ## MEXT Scholarship
+
 - [ ] Ijazah & transkrip s1 en
-  - 1 rangkap asli sekolah
+
+  - 1 rangkap asli sekolah _(19mei)_
   - 2 rangkap fc
+
 - [ ] Ijazah & transkrip s2 en
-  - 1 rangkap asli sekolah
+
+  - 1 rangkap asli sekolah _(19mei)_
   - 2 rangkap fc
 
 - [○] done, scanned
