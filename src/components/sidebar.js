@@ -71,7 +71,7 @@ export default () => (
               </CardLink>
             </ListGroupItem>
             <ListGroupItem>
-              <CardLink href="https://uliahid.com/2022-12-29%20ytb%20sch/">
+              <CardLink href="https://uliahid.com/ytbsch2022-12-29/">
                 YTB Prerequisite<Badge pill>1</Badge>
               </CardLink>
             </ListGroupItem>
@@ -109,6 +109,11 @@ export default () => (
             <ListGroupItem>
               <CardLink href="https://uliahid.com/certified2023-01-21/">
                 Certified Sch <Badge pill>0</Badge>
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/activesch2023-01-25/">
+                Active Docs Sch <Badge pill>0</Badge>
               </CardLink>
             </ListGroupItem>
           </ListGroup>

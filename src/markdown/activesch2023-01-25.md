@@ -8,13 +8,19 @@ tags:
 ---
 
 <style>
-table, th, td {
-  border: 1px solid black;
+table, th {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  border: 1px dotted black;
   border-collapse: collapse;
 }
 </style>
 
-<table style="width:90%">
+<table style="width:84%">
 <tr>
 <th>Documents</th>
 <th>Schoalrship</th>
