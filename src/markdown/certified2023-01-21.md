@@ -9,43 +9,45 @@ tags:
 
 ## Turkiye Scholarship
 
-- [ ] Ijazah & transkrip s1 en
+- [✓] Ijazah & transkrip s1 en
   - 1 rangkap _scanned_ notaris
-- [ ] Ijazah & transkrip s2 en
+- [✓] Ijazah & transkrip s2 en
   - 1 rangkap _scanned_ notaris
 
 ## GKS - E
 
-- [ ] Ijazah & transkrip s1 en
+- [✓] Ijazah & transkrip s1 en
   - 1 rangkap fc
-- [ ] Ijazah & transkrip s2 en
+- [✓] Ijazah & transkrip s2 en
   - 1 rangkap fc
-- [ ] Birth certificate or/and Family register
+- [✓] Birth certificate or/and Family register
+
   - 1 rangkap fc
 
-Though, after interview must resubmit asli/fc mofa.kr _(17maret)_
+- [○] Though, after interview must resubmit asli/fc mofa.kr _(17maret)_
 
 ## MOE scholarship
 
-- [ ] Ijazah & transkrip s2 en
+- [○] Ijazah & transkrip s2 en
   - 1 rangkap fc teto _(31maret)_
 
 ## GKS - U
 
-- [ ] Ijazah & transkrip s1 en
+- [✓] Ijazah & transkrip s1 en
   - 1 rangkap fc
-- [ ] Ijazah & transkrip s2 en
+- [✓] Ijazah & transkrip s2 en
   - 1 rangkap fc
-- [ ] Birth certificate or/and Family register
+- [✓] Birth certificate or/and Family register
+
   - 1 rangkap fc
 
-Though, after interview must resubmit asli/fc mofa.kr
+- [○] Though, after interview must resubmit asli/fc mofa.kr
 
 ## AAS
 
-- [ ] Ijazah & transkrip s1 en
+- [✓] Ijazah & transkrip s1 en
   - 1 rangkap _scanned_ notaris
-- [ ] Ijazah & transkrip s2 en
+- [✓] Ijazah & transkrip s2 en
   - 1 rangkap _scanned_ notaris
 
 ## MEXT Scholarship
