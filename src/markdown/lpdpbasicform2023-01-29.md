@@ -1,20 +1,24 @@
 ---
-title: "LPDP basic form"
-date: "2023-01-29"
+title: 'LPDP basic form'
+date: '2023-01-29'
 image: ../images/howl650.jpg
-keywords: "beasiswa"
+keywords: 'beasiswa'
 tags:
-- beasiswa
+  - beasiswa
 ---
+
 ## LPDP basic form
 
 ### First section
+
 - Sebutkan kekuatan/kelebihan (strong point) yang anda miliki
 - Sebutkan kekurangan/kelemahan (weak point) yang anda miliki
 - Pernahkah anda mendapatkan beasiswa sebelumnya? jika pernah, sebutkan dari mana saja dan jenjang apa saja
 
-
 ### Second Section
+
+**Berikan contoh pengalaman anda dalam pekerjaan/berorganisasi/pendidikan**
+
 - Pengalaman yang membanggakan
 - Pengalaman yang kurang membanggakan
 - Apa hal terakhir yang anda ajarkan pada diri anda sendiri?
