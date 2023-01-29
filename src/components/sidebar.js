@@ -122,19 +122,24 @@ export default () => (
         <Card className={styles.card}>
           <CardBody>
             <CardTitle>
-              <h2>Instructions!</h2>
+              <h2>Active Documents</h2>
             </CardTitle>
             <ListGroup>
               <ListGroupItem className="text-dark" color="success">
-                1. Do both of these writing and speaking tasks with the help of
-                vocabulary review.
-              </ListGroupItem>
-              <ListGroupItem className="text-dark" color="light">
-                2. Do extra practice of listening section or reading section at
-                the same day first one.
+                <CardLink href="https://uliahid.com/statement2023-01-29/">
+                  Personal Statement GKS <Badge pill>2</Badge>
+                </CardLink>
               </ListGroupItem>
               <ListGroupItem className="text-dark" color="success">
-                3. Surf grammar, language, britishluke, ielts materials.
+                <CardLink href="https://uliahid.com/studypln2023-01-29/">
+                  Study Plan GKS <Badge pill>2</Badge>
+                </CardLink>
+              </ListGroupItem>
+
+              <ListGroupItem className="text-dark" color="success">
+                <CardLink href="https://uliahid.com/studypln2023-01-29/">
+                  Letter of Intent and Research plan YTB <Badge pill>2</Badge>
+                </CardLink>
               </ListGroupItem>
             </ListGroup>
           </CardBody>
