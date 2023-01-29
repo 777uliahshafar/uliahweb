@@ -137,7 +137,7 @@ export default () => (
               </ListGroupItem>
 
               <ListGroupItem className="text-dark" color="success">
-                <CardLink href="https://uliahid.com/studypln2023-01-29/">
+                <CardLink href="https://uliahid.com/2022-12-27%20loi%20prompt/">
                   Letter of Intent and Research plan YTB <Badge pill>2</Badge>
                 </CardLink>
               </ListGroupItem>
