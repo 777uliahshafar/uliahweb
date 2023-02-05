@@ -1,13 +1,13 @@
 ---
-title: "Kelebihan dan kekurangan lpdp"
-date: "2023-02-05"
+title: 'Kelebihan dan kekurangan lpdp'
+date: '2023-02-05'
 image: ../images/howl650.jpg
-keywords: "beasiswa"
+keywords: 'beasiswa'
 tags:
-- beasiswa
+  - beasiswa
 ---
-## Penilaian diri LPDP
 
+## Penilaian diri LPDP
 
 ### Kelebihan
 
