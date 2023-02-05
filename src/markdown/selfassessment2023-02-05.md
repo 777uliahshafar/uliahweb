@@ -11,6 +11,8 @@ tags:
 
 ### Kelebihan
 
+Saya sangat semangat untuk belajar hal baru terutama yang menurut saya akan memudahkan dan mempercepat pekerjaan saya di masa depan. Hal baru yang terakhir saya pelajari adalah latex, bahasa markup untuk penulisan karya ilmiah.
+
 Separuh mahasiswa arsitektur saya temukan tidak dapat melanjutkan studi arsitektur di kampus saya. Meskipun saya bukan mahasiswa dengan nilai tinggi sewaktu sarjana, saya tetap menekuni arsitektur hingga lulus dengan kegigihan.
 
 Saya merasa memiliki etos kerja. Saya selalu memiliki motivasi untuk melakukan yang terbaik hingga tenggat waktu. Meskipun hasil tidak selalu sesuai dengan harapan, keringat dan air mata merupakan penghargaan terbesar bagi saya.
