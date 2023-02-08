@@ -84,7 +84,7 @@ export default () => (
             </ListGroupItem>
 
             <ListGroupItem color="success">
-              <CardLink href="https://uliahid.com/moesch2023-01-22/">
+              <CardLink href="https://uliahid.com/ntustuni2023-02-08/">
                 NTUST MOE Prerequisite<Badge pill>2</Badge>
               </CardLink>
             </ListGroupItem>
