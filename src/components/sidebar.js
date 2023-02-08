@@ -65,33 +65,28 @@ export default () => (
                 Topic ideas
               </CardLink>
             </ListGroupItem>
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/2022-12-27%20loi%20prompt/">
-                YTB Prompt<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/ytbsch2022-12-29/">
-                YTB Prerequisite<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem>
+            <ListGroupItem color="success">
               <CardLink href="https://uliahid.com/gkssch2023-01-23/">
                 GKS Prerequisite<Badge pill>1</Badge>
               </CardLink>
           </ListGroupItem>
-            <ListGroupItem>
+            <ListGroupItem color="success">
               <CardLink href="https://uliahid.com/kangwonuni2023-02-08/">
-                Kangwon GKS-u Prerequisite<Badge pill>1</Badge>
+                Kangwon GKS Prerequisite<Badge pill>2</Badge>
+              </CardLink>
+          </ListGroupItem>
+            <ListGroupItem color="success">
+              <CardLink href="https://uliahid.com/moesch2023-01-22/">
+                MOE Prerequisite<Badge pill>1</Badge>
+              </CardLink>
+          </ListGroupItem>
+            <ListGroupItem color="success">
+              <CardLink href="https://uliahid.com/moesch2023-01-22/">
+                NTUST MOE Prerequisite<Badge pill>2</Badge>
               </CardLink>
           </ListGroupItem>
 
 
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/moesch2023-01-22/">
-                MOE Prerequisite<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
             <ListGroupItem>
               <CardLink href="https://uliahid.com/aassch2023-01-23/">
                 AAS Prerequisite<Badge pill>1</Badge>
