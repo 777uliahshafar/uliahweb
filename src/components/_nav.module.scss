@@ -41,7 +41,7 @@
 @media only screen and (min-width: 64em) {
   .nav-container {
     display: grid;
-    grid-template-columns: repeat(12, 11rem);
+    grid-template-columns: repeat(12, 9rem);
     height: auto;
     background-color: $primaryColor;
 
