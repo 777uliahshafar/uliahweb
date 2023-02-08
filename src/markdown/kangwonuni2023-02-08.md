@@ -8,22 +8,31 @@ tags:
 ---
 
 **Send by post**
+
 **Follow gks documents**
+
+_Attach original with authenticated copy_
 
 ## Active Documents
 
-- [○] Online Application form
-- [ ] Personal Statement 800 words (through form 2)
-- [ ] Study Plan (through form 2)
+- [○] Application form
+  - [○] University Preference
+- [ ] Personal Statement (two pages)
+- [ ] Study Plan (three pages)
+- [✓] One letter of recommendation
+- [○] GKS applicant agreement
+- [○] Personal medical assessment
+- _from uni_
 - [○] Letter of consent for academic background check (through form 5)
+- [✓] Career certificate as letter of reference
 
 ## Passive Documents
 
 - [✓] Diploma S1 & S2
-- [✓] Transkrips S1 & S2 ( Original and authenticated copy respectively )
-- [ ] toefl iBT/ ITP
-- [✓] career certificate as letter of reference
-- [✓] passport
-- [✓] family register (original and translated copy)
-
-_resubmit document after pass department screening "May 15_
+- [✓] Transkrip S1 & S2
+- [✓] Birth and Family relationship documents
+- [✓] Toefl itp
+- [○] Certificate of research papers, copy of awards etc.
+- [✓] Passport
+- _from uni_
+- [✓] Transkrip S1 & S2 ( Original and authenticated copy respectively )
