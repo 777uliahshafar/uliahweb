@@ -65,27 +65,29 @@ export default () => (
                 Topic ideas
               </CardLink>
             </ListGroupItem>
+
             <ListGroupItem color="success">
               <CardLink href="https://uliahid.com/gkssch2023-01-23/">
                 GKS Prerequisite<Badge pill>1</Badge>
               </CardLink>
-          </ListGroupItem>
-            <ListGroupItem color="success">
+            </ListGroupItem>
+
+            <ListGroupItem>
               <CardLink href="https://uliahid.com/kangwonuni2023-02-08/">
                 Kangwon GKS Prerequisite<Badge pill>2</Badge>
               </CardLink>
-          </ListGroupItem>
-            <ListGroupItem color="success">
+            </ListGroupItem>
+            <ListGroupItem>
               <CardLink href="https://uliahid.com/moesch2023-01-22/">
                 MOE Prerequisite<Badge pill>1</Badge>
               </CardLink>
-          </ListGroupItem>
-            <ListGroupItem color="success">
+            </ListGroupItem>
+
+            <ListGroupItem>
               <CardLink href="https://uliahid.com/moesch2023-01-22/">
                 NTUST MOE Prerequisite<Badge pill>2</Badge>
               </CardLink>
-          </ListGroupItem>
-
+            </ListGroupItem>
 
             <ListGroupItem>
               <CardLink href="https://uliahid.com/aassch2023-01-23/">
@@ -136,12 +138,11 @@ export default () => (
                 <CardLink href="https://uliahid.com/studypln2023-01-29/">
                   Study Plan GKS <Badge pill>2</Badge>
                 </CardLink>
-            </ListGroupItem>
-
-            <ListGroup>
+              </ListGroupItem>
               <ListGroupItem className="text-dark" color="success">
                 <CardLink href="https://uliahid.com/statementkangwon2023-02-08/">
-                  Personal Statement and Study Plan Kangwon GKS-u <Badge pill>2</Badge>
+                  Personal Statement and Study Plan Kangwon GKS-u{' '}
+                  <Badge pill>2</Badge>
                 </CardLink>
               </ListGroupItem>
               <ListGroupItem className="text-dark" color="success">
