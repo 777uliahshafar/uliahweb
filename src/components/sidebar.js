@@ -74,7 +74,7 @@ export default () => (
 
             <ListGroupItem color="success">
               <CardLink href="https://uliahid.com/kangwonuni2023-02-08/">
-                Kangwon GKS Prerequisite<Badge pill>2</Badge>
+                Kangwon GKS-u Prerequisite<Badge pill>2</Badge>
               </CardLink>
             </ListGroupItem>
             <ListGroupItem color="success">
