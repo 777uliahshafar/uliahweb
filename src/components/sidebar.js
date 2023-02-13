@@ -103,22 +103,26 @@ export default () => (
               <CardLink href="https://uliahid.com/lpdpsch2023-02-13/">
                 LPDP Prerequisite<Badge pill>1</Badge>
               </CardLink>
-            </ListGroupItem>
+          </ListGroupItem>
+
             <ListGroupItem color="primary">
               <CardLink href="https://uliahid.com/unhasundipuni2023-02-13/">
                   LPDP undip(unhas) prerequisite<Badge pill>2</Badge>
               </CardLink>
-            </ListGroupItem>
+          </ListGroupItem>
+
             <ListGroupItem>
               <CardLink href="https://uliahid.com/bpisch2023-02-13/">
                 BPI prerequisite<Badge pill>1</Badge>
               </CardLink>
-            </ListGroupItem>
+          </ListGroupItem>
+
             <ListGroupItem>
               <CardLink href="https://uliahid.com/malayauni2023-02-13/">
                 BPI malaya prerequisite<Badge pill>2</Badge>
               </CardLink>
-            </ListGroupItem>
+          </ListGroupItem>
+
             <ListGroupItem>
               <CardLink href="https://uliahid.com/Scholarship%20Info%20Des/">
                 Timeline General Sch<Badge pill>0</Badge>
