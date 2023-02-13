@@ -99,12 +99,26 @@ export default () => (
                 MEXT Prerequisite<Badge pill>1</Badge>
               </CardLink>
             </ListGroupItem>
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/lpdpnbpi/">
-                LPDP BPI Prerequisite<Badge pill>1</Badge>
+            <ListGroupItem color="primary">
+              <CardLink href="https://uliahid.com/lpdpsch2023-02-13/">
+                LPDP Prerequisite<Badge pill>1</Badge>
+              </CardLink>
+          </ListGroupItem>
+            <ListGroupItem color="primary">
+              <CardLink href="https://uliahid.com/unhasundipuni2023-02-13/">
+                Unhas or Undip LPDP and BPI<Badge pill>2</Badge>
               </CardLink>
             </ListGroupItem>
-
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/bpisch2023-02-13/">
+                BPI prerequisite<Badge pill>1</Badge>
+              </CardLink>
+            </ListGroupItem>
+            <ListGroupItem>
+              <CardLink href="https://uliahid.com/malayuni2023-02-13/">
+                Malay prerequisite BPI<Badge pill>2</Badge>
+              </CardLink>
+            </ListGroupItem>
             <ListGroupItem>
               <CardLink href="https://uliahid.com/Scholarship%20Info%20Des/">
                 Timeline General Sch<Badge pill>0</Badge>
