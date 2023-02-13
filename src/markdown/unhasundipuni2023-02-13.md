@@ -16,7 +16,7 @@ Accepted
 ## Active Documents
 
 - [○] Online application form
-- [ ] Availability professor
+- [ ] Advisor
 
 ## Passive Documents
 
