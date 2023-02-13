@@ -115,7 +115,7 @@ export default () => (
             </ListGroupItem>
             <ListGroupItem>
               <CardLink href="https://uliahid.com/unisch2023-02-13/">
-                Uni Sch <Badge pill>0</Badge>
+                Approved Uni Sch <Badge pill>0</Badge>
               </CardLink>
             </ListGroupItem>
             <ListGroupItem>
