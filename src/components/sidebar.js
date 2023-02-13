@@ -94,7 +94,7 @@ export default () => (
 
             <ListGroupItem color="primary">
               <CardLink href="https://uliahid.com/unhasundipuni2023-02-13/">
-                LPDP undip(unhas) prerequisite<Badge pill>2</Badge>
+                undip(unhas) as LPDP prerequisite<Badge pill>2</Badge>
               </CardLink>
             </ListGroupItem>
 
@@ -106,7 +106,7 @@ export default () => (
 
             <ListGroupItem>
               <CardLink href="https://uliahid.com/malayauni2023-02-13/">
-                BPI malaya prerequisite<Badge pill>2</Badge>
+                malaya as BPI prerequisite<Badge pill>2</Badge>
               </CardLink>
             </ListGroupItem>
 
