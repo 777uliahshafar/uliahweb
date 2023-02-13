@@ -65,7 +65,11 @@ export default () => (
                 Topic ideas
               </CardLink>
             </ListGroupItem>
-
+            <ListGroupItem color="primary">
+              <CardLink href="https://uliahid.com/lpdpsch2023-02-13/">
+                LPDP Prerequisite<Badge pill>1</Badge>
+              </CardLink>
+            </ListGroupItem>
             <ListGroupItem color="success">
               <CardLink href="https://uliahid.com/gkssch2023-01-23/">
                 GKS Prerequisite<Badge pill>1</Badge>
@@ -84,11 +88,6 @@ export default () => (
             <ListGroupItem>
               <CardLink href="https://uliahid.com/mextsch2023-01-23/">
                 MEXT Prerequisite<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem color="primary">
-              <CardLink href="https://uliahid.com/lpdpsch2023-02-13/">
-                LPDP Prerequisite<Badge pill>1</Badge>
               </CardLink>
             </ListGroupItem>
 
