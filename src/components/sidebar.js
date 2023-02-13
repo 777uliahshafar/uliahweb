@@ -92,7 +92,7 @@ export default () => (
               </CardLink>
             </ListGroupItem>
 
-            <ListGroupItem color="primary">
+            <ListGroupItem>
               <CardLink href="https://uliahid.com/unhasundipuni2023-02-13/">
                 undip(unhas) as LPDP prerequisite<Badge pill>2</Badge>
               </CardLink>
