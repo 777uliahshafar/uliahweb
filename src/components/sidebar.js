@@ -73,22 +73,9 @@ export default () => (
             </ListGroupItem>
             <ListGroupItem color="success">
               <CardLink href="https://uliahid.com/kangwonuni2023-02-08/">
-                 GKS-U Kangwon Prerequisite<Badge pill>2</Badge>
-              </CardLink>
-          </ListGroupItem>
-          <!--
-            <ListGroupItem color="success">
-              <CardLink href="https://uliahid.com/moesch2023-01-22/">
-                MOE Prerequisite<Badge pill>1</Badge>
+                GKS-U Kangwon Prerequisite<Badge pill>2</Badge>
               </CardLink>
             </ListGroupItem>
-
-            <ListGroupItem color="success">
-              <CardLink href="https://uliahid.com/ntustuni2023-02-08/">
-                NTUST MOE Prerequisite<Badge pill>2</Badge>
-              </CardLink>
-            </ListGroupItem>
-            -->
             <ListGroupItem>
               <CardLink href="https://uliahid.com/aassch2023-01-23/">
                 AAS Prerequisite<Badge pill>1</Badge>
@@ -103,25 +90,25 @@ export default () => (
               <CardLink href="https://uliahid.com/lpdpsch2023-02-13/">
                 LPDP Prerequisite<Badge pill>1</Badge>
               </CardLink>
-          </ListGroupItem>
+            </ListGroupItem>
 
             <ListGroupItem color="primary">
               <CardLink href="https://uliahid.com/unhasundipuni2023-02-13/">
-                  LPDP undip(unhas) prerequisite<Badge pill>2</Badge>
+                LPDP undip(unhas) prerequisite<Badge pill>2</Badge>
               </CardLink>
-          </ListGroupItem>
+            </ListGroupItem>
 
             <ListGroupItem>
               <CardLink href="https://uliahid.com/bpisch2023-02-13/">
                 BPI prerequisite<Badge pill>1</Badge>
               </CardLink>
-          </ListGroupItem>
+            </ListGroupItem>
 
             <ListGroupItem>
               <CardLink href="https://uliahid.com/malayauni2023-02-13/">
                 BPI malaya prerequisite<Badge pill>2</Badge>
               </CardLink>
-          </ListGroupItem>
+            </ListGroupItem>
 
             <ListGroupItem>
               <CardLink href="https://uliahid.com/Scholarship%20Info%20Des/">
