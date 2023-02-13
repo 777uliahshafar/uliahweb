@@ -18,6 +18,7 @@ _Attach original with authenticated copy_
 - [○] Application form
 - [ ] Personal Statement (two pages)
 - [ ] Study Plan (three pages)
+- [ ] Uniprof touch
 - [✓] One letter of recommendation
 - [○] GKS applicant agreement
 - [○] Personal medical assessment
