@@ -9,14 +9,13 @@ tags:
 
 **Send by post**
 
-**Follow gks documents**
+**documents same as gks e**
 
 _Attach original with authenticated copy_
 
 ## Active Documents
 
 - [○] Application form
-  - [○] University Preference
 - [ ] Personal Statement (two pages)
 - [ ] Study Plan (three pages)
 - [✓] One letter of recommendation
@@ -28,11 +27,9 @@ _Attach original with authenticated copy_
 
 ## Passive Documents
 
-- [✓] Diploma S1 & S2
-- [✓] Transkrip S1 & S2
-- [✓] Birth and Family relationship documents
-- [✓] Toefl itp
-- [○] Certificate of research papers, copy of awards etc.
+- [○] Diploma S1 & S2 (apostille)
+- [○] Transkrip S1 & S2 (apostille)
+- [○] Birth and Family relationship documents (apostille)
+- [ ] icbt 5.5 or Recommendation Letter for Exceptional Researcher
+- [✓] Certificate of research papers, copy of awards etc.
 - [✓] Passport
-- _from uni_
-- [✓] Transkrip S1 & S2 ( Original and authenticated copy respectively )

@@ -71,12 +71,12 @@ export default () => (
                 GKS Prerequisite<Badge pill>1</Badge>
               </CardLink>
             </ListGroupItem>
-
             <ListGroupItem color="success">
               <CardLink href="https://uliahid.com/kangwonuni2023-02-08/">
-                Kangwon GKS-u Prerequisite<Badge pill>2</Badge>
+                 GKS-U Kangwon Prerequisite<Badge pill>2</Badge>
               </CardLink>
-            </ListGroupItem>
+          </ListGroupItem>
+          <!--
             <ListGroupItem color="success">
               <CardLink href="https://uliahid.com/moesch2023-01-22/">
                 MOE Prerequisite<Badge pill>1</Badge>
@@ -88,7 +88,7 @@ export default () => (
                 NTUST MOE Prerequisite<Badge pill>2</Badge>
               </CardLink>
             </ListGroupItem>
-
+            -->
             <ListGroupItem>
               <CardLink href="https://uliahid.com/aassch2023-01-23/">
                 AAS Prerequisite<Badge pill>1</Badge>
@@ -106,7 +106,7 @@ export default () => (
             </ListGroupItem>
             <ListGroupItem color="primary">
               <CardLink href="https://uliahid.com/unhasundipuni2023-02-13/">
-                Unhas or Undip LPDP and BPI<Badge pill>2</Badge>
+                  LPDP undip(unhas) prerequisite<Badge pill>2</Badge>
               </CardLink>
             </ListGroupItem>
             <ListGroupItem>
@@ -116,7 +116,7 @@ export default () => (
             </ListGroupItem>
             <ListGroupItem>
               <CardLink href="https://uliahid.com/malayauni2023-02-13/">
-                Malay prerequisite BPI<Badge pill>2</Badge>
+                BPI malaya prerequisite<Badge pill>2</Badge>
               </CardLink>
             </ListGroupItem>
             <ListGroupItem>
