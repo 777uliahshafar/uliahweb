@@ -134,23 +134,28 @@ export default () => (
         <Card className={styles.card}>
           <CardBody>
             <CardTitle>
-              <h2>Active Documents</h2>
+              <h2>English List</h2>
             </CardTitle>
             <ListGroup>
               <ListGroupItem className="text-dark" color="success">
-                <CardLink href="https://uliahid.com/statement2023-01-29/">
-                  Personal Statement GKS <Badge pill>2</Badge>
+                <CardLink href="https://uliahid.com/tag/speaking">
+                  Speaking<Badge pill>2</Badge>
                 </CardLink>
               </ListGroupItem>
               <ListGroupItem className="text-dark" color="success">
-                <CardLink href="https://uliahid.com/studypln2023-01-29/">
-                  Study Plan GKS <Badge pill>2</Badge>
+                <CardLink href="https://uliahid.com/tag/writing">
+                  Writing<Badge pill>2</Badge>
+                </CardLink>
+              </ListGroupItem>
+
+              <ListGroupItem className="text-dark" color="success">
+                <CardLink href="https://uliahid.com/tag/reading">
+                  Reading<Badge pill>2</Badge>
                 </CardLink>
               </ListGroupItem>
               <ListGroupItem className="text-dark" color="success">
-                <CardLink href="https://uliahid.com/statementkangwon2023-02-08/">
-                  Personal Statement and Study Plan Kangwon GKS-u{' '}
-                  <Badge pill>2</Badge>
+                <CardLink href="https://uliahid.com/tag/listening">
+                  Listening<Badge pill>2</Badge>
                 </CardLink>
               </ListGroupItem>
             </ListGroup>
