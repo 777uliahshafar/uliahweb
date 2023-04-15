@@ -66,7 +66,7 @@ const indexQuery = graphql`
             }
             date(formatString: "MMMM YYYY")
           }
-          excerpt(format: PLAIN, pruneLength: 100)
+          excerpt(format: PLAIN, pruneLength: 50)
         }
       }
     }
