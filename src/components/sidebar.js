@@ -18,7 +18,7 @@ export default () => (
       query {
         allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: DESC }
-          limit: 5
+          limit: 10
         ) {
           totalCount
           edges {
@@ -65,69 +65,6 @@ export default () => (
                 Topic ideas
               </CardLink>
             </ListGroupItem>
-            <ListGroupItem color="primary">
-              <CardLink href="https://uliahid.com/lpdpsch2023-02-13/">
-                LPDP Prerequisite<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/unhasundipuni2023-02-13/">
-                undip(unhas) as LPDP prerequisite<Badge pill>2</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem color="success">
-              <CardLink href="https://uliahid.com/gkssch2023-01-23/">
-                GKS Prerequisite<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem color="success">
-              <CardLink href="https://uliahid.com/kangwonuni2023-02-08/">
-                GKS-U Kangwon Prerequisite<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/aassch2023-01-23/">
-                AAS Prerequisite<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/mextsch2023-01-23/">
-                MEXT Prerequisite<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
-
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/bpisch2023-02-13/">
-                BPI prerequisite<Badge pill>1</Badge>
-              </CardLink>
-            </ListGroupItem>
-
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/malayauni2023-02-13/">
-                malaya as BPI prerequisite<Badge pill>2</Badge>
-              </CardLink>
-            </ListGroupItem>
-
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/Scholarship%20Info%20Des/">
-                Timeline General Sch<Badge pill>0</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/unisch2023-02-13/">
-                Approved Uni Sch <Badge pill>0</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/certified2023-01-21/">
-                Certified Sch <Badge pill>0</Badge>
-              </CardLink>
-            </ListGroupItem>
-            <ListGroupItem>
-              <CardLink href="https://uliahid.com/activesch2023-01-25/">
-                Active Docs Sch <Badge pill>0</Badge>
-              </CardLink>
-            </ListGroupItem>
           </ListGroup>
         </Card>
 
@@ -157,7 +94,7 @@ export default () => (
                 <CardLink href="https://uliahid.com/tag/listening">
                   Listening<Badge pill>2</Badge>
                 </CardLink>
-            </ListGroupItem>
+              </ListGroupItem>
 
               <ListGroupItem className="text-dark" color="success">
                 <CardLink href="https://uliahid.com/2023-04-05:09">
