@@ -29,7 +29,7 @@ const Article = ({ slug, title, date, excerpt, fluid, tags }) => {
                </ul>
             </div>
             <div className={styles.more}>
-               <Link to={slug}>Read More</Link>
+               <Link to={slug}>More</Link>
             </div>
          </div>
       </article>
