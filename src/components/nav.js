@@ -27,8 +27,7 @@ export default () => (
           <NavLink to="/" text="Articles" />
           <NavLink to="/about" text="About" />
           <NavLink to="/tags" text="Tags" />
-          <NavLink to="/tag/beasiswa" text="Sch" />
-          <NavLink to="/tag/universitas" text="Uni touch" />
+          <NavLink to="/schleft" text="SchLeft" />
         </div>
       </nav>
     )}
