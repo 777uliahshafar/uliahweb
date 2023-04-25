@@ -7,7 +7,13 @@ tags:
   - beasiswa
 ---
 
-## BPI1 June 30
+**<span style="color:#458588;">abroad</span>**
+
+## Prerequisite
+
+### BPI1 July
+
+#### DN
 
 - LoA UNDIP _/or_
   - [ ] request for defer/ penundaan pembayaran
@@ -15,27 +21,30 @@ tags:
   - [ ] **500 tpa** followed _confirm_
   - [ ] pass announcement may 9
   - [○] srtizin lldikti _update_
-- LoA Malaya
-  - [ ] register
-- [○] improve essay id&en
-- [○] improve proposal phd id&en
-- [○] research issue
-- [ ] 6.5 icom _(optional)_
+- [ ] health certificate
+- [ ] statement letter
+- _SP_
 
-## LPDP2 July9
+#### LN
+
+- LoA
+- **6.5 icom**
+- _SP_
+
+---
+
+### LPDP2 July9
+
+#### DN
 
 - Non-LoA _/or_
   - **tes tpa**
-- LoA Malaya
-  - [ ] **7 icom**
-- [○] improve essay id&en
-- [○] improve proposal phd id&en
-- [○] research issue
+- [ ] LoA UGM
+- _SP_
 
-## BPI2 Sep30
+## Supplementary Point (SP)
 
-- LoA Malaya
-  - [ ] **6.5 icom**
-- [○] improve essay id&en
-- [○] improve proposal phd id&en
+- [○] improve essay
+- [○] improve proposal phd
 - [○] research issue
+- [ ] icom
