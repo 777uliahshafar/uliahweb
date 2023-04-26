@@ -15,7 +15,7 @@ tags:
   - [ ] request for defer/ penundaan pembayaran
   - [ ] _obtained_
 - LoA UGM _/or_
-  - _gel. 1 closed / gel. 2 may28- july14_
+  - _gel. 1 closed / gel. 2 may28- july7_
   - [ ] **500 tpa** followed _confirm_
   - [ ] pass announcement may 9
   - [ ] _obtained_
