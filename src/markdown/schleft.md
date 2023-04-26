@@ -7,44 +7,39 @@ tags:
   - beasiswa
 ---
 
-**<span style="color:#458588;">abroad</span>**
+## BPI July30', Sept 30'
 
-## Prerequisite
-
-### BPI1 July
-
-#### DN
+**<span style="color:#458588;">home</span>**
 
 - LoA UNDIP _/or_
   - [ ] request for defer/ penundaan pembayaran
+  - [ ] _obtained_
 - LoA UGM _/or_
+  - _gel. 1 closed / gel. 2 may28- july14_
   - [ ] **500 tpa** followed _confirm_
   - [ ] pass announcement may 9
-  - [○] srtizin lldikti _update_
+  - [ ] _obtained_
+- [ ] srtizin lldikti _ugm/general_
 - [ ] health certificate
 - [ ] statement letter
-- _SP_
+- [ ] icom _(optional)_
+- [○] issue research
+- [●] improve essay
+- [●] improve proposal phd
 
-#### LN
+**<span style="color:#458588;">abroad</span>**
 
-- LoA
-- **6.5 icom**
-- _SP_
+- [ ] **6.5 icom**
+- [ ] LoA malaya
+- _aforsaid_
 
 ---
 
-### LPDP2 July9
+## LPDP July9
 
-#### DN
+**<span style="color:#458588;">home</span>**
 
 - Non-LoA _/or_
-  - **tes tpa**
-- [ ] LoA UGM
-- _SP_
-
-## Supplementary Point (SP)
-
-- [○] improve essay
-- [○] improve proposal phd
-- [○] research issue
-- [ ] icom
+  - [ ] **tes tpa**
+- LoA UGM
+  - [ ] _obtained_
