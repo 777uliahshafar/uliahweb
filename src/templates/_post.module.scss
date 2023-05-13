@@ -73,14 +73,20 @@
     }
 
     img {
-      width: 400;
-      height: 200;
+      width: 800;
+      height: 400;
       opacity: 1;
     }
 
     @media screen and (max-width: 992px) {
       p {
         text-align: left;
+      }
+
+      img {
+        width: 359;
+        height: 201;
+        opacity: 1;
       }
     }
   } //end of content
